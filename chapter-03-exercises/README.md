@@ -1,6 +1,21 @@
-# Chapter 3 Exercises
+# Exercise 1
+In this exercise you'll practice using git to clone and edit repositories, as will be required for later exercises.
 
-This repository contains programming exercises for using git and GitHub, 
-based on Chapter 3 of [_Programming Skills for Data Science_](https://programming-for-data-science.github.io/).
- 
-Solutions can be found in the `solution` branch.
+1. If you haven't already, configure your name and email address for your GitHub account using the terminal.
+
+2. If you haven't created your own version of this repository on GitHub (e.g., by forking it, or because it was created using GitHub Classroom), fork this repository to your own GitHub account by clicking the `fork` button on the GitHub interface.
+
+3. Using the terminal, clone **your version** of the repository to your machine (make sure you're in the desired directory on your terminal).
+
+4. On your machine, open up this file (`exercise-1/README.md`) in a text editor of your choice.
+
+5. In the `README.md` file, below these instructions, add an ordered list of what you ate for breakfast today.
+
+6. Using your terminal, add and commit the changes you've made to your repository
+
+7. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
+
+This morning for breakfast I ate...
+2 cookies
+Drank a glass of milk
+Drank a cup of coffee before heading out to run some errands.
