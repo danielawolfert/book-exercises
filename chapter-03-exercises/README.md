@@ -19,3 +19,4 @@ This morning for breakfast I ate...
 2 cookies
 Drank a glass of milk
 Drank a cup of coffee before heading out to run some errands.
+Went to Petsmart 3 times today to help my friend buy a fish.
