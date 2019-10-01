@@ -38,5 +38,5 @@ Open up your command-line terminal, and perform the following tasks (no need to 
 
 # Bonus: Create 10 files with one single command in your terminal. Then delete them all!
 
-
+hello world, have not looked at anything on this page
 ```
